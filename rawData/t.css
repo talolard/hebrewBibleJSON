@@ -1,0 +1,17 @@
+body {font-family:David;color:#000000;background-color:#FFFFFF;margin:1.5em;}
+p {font-size:165%;text-align:justify;}
+p.r {font-size:165%;text-align:right;}
+p.m {font-size:120%;text-align:justify;}
+p.s {font-size:100%;text-align:justify;}
+tr {font-size:135%;}
+h1 {font-size:260%;}
+h2 {font-size:210%;}
+h3 {font-size:180%;}
+big {font-size:120%;vertical-align:-7%;}
+b {font-size:70%;vertical-align:9%;}
+small {font-size:80%;vertical-align:12%;font-weight:bold}
+sup {font-size:115%;vertical-align:15%;}
+span.tiny {font-size:80%;}
+span.x {color:#990099;}
+span.y {font-size:80%;}
+span.eng {font-family:"Times New Roman, Arial";font-size:80%;}
